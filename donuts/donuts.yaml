@@ -1,0 +1,9 @@
+train: /content/newron/donuts/train/
+val: /content/newron/donuts/val/
+test: /content/newron/donuts/test/
+
+# number of classes
+nc: 1
+
+# class names
+names: ['ponde']
