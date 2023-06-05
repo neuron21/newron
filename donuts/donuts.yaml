@@ -6,4 +6,4 @@ test: /content/newron/donuts/test/
 nc: 1
 
 # class names
-names: ['ponde']
+names: ['ponde','old']
