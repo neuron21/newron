@@ -1,6 +1,6 @@
-train: /content/newron/donuts/train/
-val: /content/newron/donuts/val/
-test: /content/newron/donuts/test/
+train: /content/ultralytics/newron/donuts/train/
+val: /content/ultralytics/newron/donuts/val/
+test: /content/ultralytics/newron/donuts/test/
 
 # number of classes
 nc: 2
